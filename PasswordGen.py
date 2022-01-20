@@ -3,7 +3,7 @@ import random
 lower = "abcdefghijklmnopkrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "0123456789"
-symbols = "[]{}()*;/,_-"
+symbols = "#[]{}()*;/,_-"
 
 all = lower + upper + numbers + symbols
 
